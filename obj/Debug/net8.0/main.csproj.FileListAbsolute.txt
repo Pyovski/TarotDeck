@@ -1,0 +1,14 @@
+C:\Users\cowye\Desktop\bootcamp\main\bin\Debug\net8.0\main.exe
+C:\Users\cowye\Desktop\bootcamp\main\bin\Debug\net8.0\main.deps.json
+C:\Users\cowye\Desktop\bootcamp\main\bin\Debug\net8.0\main.runtimeconfig.json
+C:\Users\cowye\Desktop\bootcamp\main\bin\Debug\net8.0\main.dll
+C:\Users\cowye\Desktop\bootcamp\main\bin\Debug\net8.0\main.pdb
+C:\Users\cowye\Desktop\bootcamp\main\obj\Debug\net8.0\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cowye\Desktop\bootcamp\main\obj\Debug\net8.0\main.AssemblyInfoInputs.cache
+C:\Users\cowye\Desktop\bootcamp\main\obj\Debug\net8.0\main.AssemblyInfo.cs
+C:\Users\cowye\Desktop\bootcamp\main\obj\Debug\net8.0\main.csproj.CoreCompileInputs.cache
+C:\Users\cowye\Desktop\bootcamp\main\obj\Debug\net8.0\main.dll
+C:\Users\cowye\Desktop\bootcamp\main\obj\Debug\net8.0\refint\main.dll
+C:\Users\cowye\Desktop\bootcamp\main\obj\Debug\net8.0\main.pdb
+C:\Users\cowye\Desktop\bootcamp\main\obj\Debug\net8.0\main.genruntimeconfig.cache
+C:\Users\cowye\Desktop\bootcamp\main\obj\Debug\net8.0\ref\main.dll
